@@ -14,7 +14,7 @@ You will be able to:
 
 
 
-# Getting Started...
+# Getting Started......
 
 For this lab, we'll be working with the classic **_Newsgroups Dataset_**, which is available as a training data set in `sklearn.datasets`. This dataset contains many different articles that fall into 1 of 20 possible classes. Our goal will be to build a classifier that can accurately predict the class of an article based on the features we create from the article itself!
 
